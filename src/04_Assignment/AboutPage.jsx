@@ -1,0 +1,1 @@
+export default () => (<h1>About: This application is used to track the status of the issues raised</h1>);

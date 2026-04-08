@@ -1,0 +1,49 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Ram",
+      "text": "React is simple"
+    },
+    {
+      "id": 2,
+      "author": "Raj",
+      "text": "React is fast"
+    },
+    {
+      "author": "Vinay",
+      "text": "React can be used to develop SPA",
+      "id": 3
+    },
+    {
+      "author": "fghfghfg",
+      "text": "ghfghfghf",
+      "id": 4
+    },
+    {
+      "author": "Shreya",
+      "text": "sfksdfksdhf",
+      "id": 5
+    },
+    {
+      "author": "qded2",
+      "text": "s24d5",
+      "id": 6
+    },
+    {
+      "author": "txef6rvy",
+      "text": "kygfudytz",
+      "id": 7
+    },
+    {
+      "author": "sai",
+      "text": "sfdgws",
+      "id": 8
+    },
+    {
+      "author": "ptrasas",
+      "text": "ss2r3dr",
+      "id": 9
+    }
+  ]
+}
